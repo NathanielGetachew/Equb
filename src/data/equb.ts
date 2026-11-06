@@ -16,8 +16,8 @@ export interface EqubConfig {
 }
 
 export const EQUB_CONFIG: EqubConfig = {
-  brandName: "I store by deb equb",
-  brandNameAmharic: "አይ ስቶር ባይ ዴብ እቁብ", // TODO: native review
+  brandName: "I store by dev",
+  brandNameAmharic: "አይ ስቶር ባይ ዴቭ እቁብ", // TODO: native review
   rewardVehicle: "Suzuki Dzire",
   vehicleModelYear: "2024 / 2025 Edition",
   totalMembers: 25,

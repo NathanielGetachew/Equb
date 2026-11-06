@@ -50,7 +50,7 @@ export const translations = {
       badge: "Ethiopian Heritage Meets Digital Trust",
       title: "Centuries of Sacred Community Savings, Modernized",
       description1: "In Ethiopia, an Equb (እቁብ) is far more than a financial arrangement — it is an ancient bond of mutual solidarity, trust, and shared prosperity. For generations, close circles of peers have pooled their resources so each member could achieve dreams that seemed out of reach alone.",
-      description2: `"I store by deb equb" brings this cherished tradition into the digital age. By gathering exactly 25 trusted friends, establishing verifiable daily bookkeeping, and automating fair 9-day lottery draws, we celebrate collective savings with life-changing rewards.`,
+      description2: `"I store by dev" brings this cherished tradition into the digital age. By gathering exactly 25 trusted friends, establishing verifiable daily bookkeeping, and automating fair 9-day lottery draws, we celebrate collective savings with life-changing rewards.`,
       pillar1Title: "Sacred Social Trust",
       pillar1Desc: "Rooted in real friendships and accountability, ensuring everyone honors their daily commitment.",
       pillar2Title: "Guaranteed Car Payout",
@@ -60,7 +60,7 @@ export const translations = {
     },
     howItWorks: {
       badge: "Step-by-Step Mechanism",
-      title: "How I store by deb equb Works",
+      title: "How I store by dev Works",
       subtitle: "Simple, transparent, and built on unbreakable friend-circle integrity.",
       step1Title: "1. Join the Circle",
       step1Desc: "25 vetted friends unite into a single, closed savings group with mutual agreements.",
@@ -127,8 +127,8 @@ export const translations = {
     faq: {
       badge: "Frequently Asked Questions",
       title: "Got Questions? We Have Answers",
-      subtitle: "Everything you need to know about participating in 'I store by deb equb'.",
-      q1: "What makes 'I store by deb equb' different from traditional equbs?",
+      subtitle: "Everything you need to know about participating in 'I store by dev'.",
+      q1: "What makes 'I store by dev' different from traditional equbs?",
       a1: "While respecting the traditional Ethiopian equb model, we remove manual bookkeeping friction. Daily 12,000 ETB contributions are logged transparently on a mobile-friendly dashboard, and each 9-day draw yields a tangible, high-value asset: a brand-new Suzuki Dzire.",
       q2: "How is the 2,700,000 ETB round pool calculated?",
       a2: "It is mathematically derived: 25 close friends each save 12,000 ETB every single day. That equals 300,000 ETB collected daily. Over a 9-day round, 300,000 × 9 = 2,700,000 ETB, which fully funds one Suzuki Dzire car delivery.",
@@ -145,7 +145,7 @@ export const translations = {
     },
     cta: {
       title: "Experience the Future of Ethiopian Community Savings",
-      subtitle: "Ready to launch 'I store by deb equb' with a tailored, state-of-the-art mobile experience for your 25 members?",
+      subtitle: "Ready to launch 'I store by dev' with a tailored, state-of-the-art mobile experience for your 25 members?",
       btnClient: "Book Organizer Demo",
       btnRules: "Download Equb Rules PDF (Demo)",
     },
@@ -154,8 +154,8 @@ export const translations = {
       disclaimerText: "Demo concept created for client presentation purposes only. Not a live financial product, deposit-taking entity, or public lottery. Equb administration, lottery scheduling, and savings management in Ethiopia are subject to national regulations, community agreements, and legal verification prior to deployment.", // TODO: regulatory review
       address: "Bole Medhanialem, Addis Ababa, Ethiopia",
       phone: "+251 911 000 000 (Demo placeholder)",
-      email: "contact@istorebydeb-demo.et",
-      copyright: `© ${new Date().getFullYear()} I store by deb equb. All rights reserved. Built with pride for Ethiopian community prosperity.`,
+      email: "contact@istorebydev-demo.et",
+      copyright: `© ${new Date().getFullYear()} I store by dev. All rights reserved. Built with pride for Ethiopian community prosperity.`,
     }
   },
   am: {
@@ -205,7 +205,7 @@ export const translations = {
       badge: "የሀገር ባህል ከዘመናዊ ቴክኖሎጂ ጋር",
       title: "የዘመናት ባህላዊ እቁብ በዘመናዊ አስተማማኝ አሰራር",
       description1: "በሀገራችን ኢትዮጵያ እቁብ የፋይናንስ ስምምነት ብቻ ሳይሆን የፍቅር፣ የመተሳሰብ፣ የመተማመን እና የአብሮ ማደግ ህያው ምስክር ነው። ለትውልዶች ሲወርድ ሲዋረድ የመጣው ይህ እሴት ሰዎች በጋራ ሆነው ትላልቅ ህልሞችን እውን እንዲያደርጉ አስችሏል።",
-      description2: `"I store by deb equb" ይህን ክቡር ባህል በዲጂታል ዘመን የበለጠ ግልጽ እና አስተማማኝ አድርጎታል። 25 የተመረጡ ጓደኛሞችን በማሰባሰብ፣ የቀን ተቀን ሂሳብን በግልፅ በማሳወቅ እና በየ 9 ቀኑ አዲስ መኪና በማሸለም አዲስ ምዕራፍ ከፍቷል።`,
+      description2: `"I store by dev" ይህን ክቡር ባህል በዲጂታል ዘመን የበለጠ ግልጽ እና አስተማማኝ አድርጎታል። 25 የተመረጡ ጓደኛሞችን በማሰባሰብ፣ የቀን ተቀን ሂሳብን በግልፅ በማሳወቅ እና በየ 9 ቀኑ አዲስ መኪና በማሸለም አዲስ ምዕራፍ ከፍቷል።`,
       pillar1Title: "የማይናወጥ እምነት",
       pillar1Desc: "በእውነተኛ ጓደኝነት ላይ የተመሰረተ በመሆኑ ሁሉም አባል የዕለት ቁጠባውን በታማኝነት ይወጣል።",
       pillar2Title: "የመኪና ሽልማት ዋስትና",
@@ -215,7 +215,7 @@ export const translations = {
     },
     howItWorks: {
       badge: "ቀላል እና ግልጽ አሰራር",
-      title: "I store by deb equb እንዴት ይሰራል?",
+      title: "I store by dev እንዴት ይሰራል?",
       subtitle: "ግልጽ፣ አስተማማኝ እና በጓደኝነት ታማኝነት ላይ የተገነባ የቁጠባ ጉዞ።",
       step1Title: "1. ማህበሩን መቀላቀል",
       step1Desc: "25 የሚተዋወቁና የታመኑ ጓደኛሞች በአንድ ዝግ ክበብ ስር በጋራ ስምምነት ይሰባሰባሉ።",
@@ -282,8 +282,8 @@ export const translations = {
     faq: {
       badge: "ተደጋግመው የሚጠየቁ ጥያቄዎች",
       title: "ጥያቄ አለዎት? መልሶችን እዚህ ያገኛሉ",
-      subtitle: "ስለ 'I store by deb equb' ማወቅ የሚፈልጉት ሙሉ መረጃ።",
-      q1: "'I store by deb equb' ከተለመዱት እቁቦች በምን ይለያል?",
+      subtitle: "ስለ 'I store by dev' ማወቅ የሚፈልጉት ሙሉ መረጃ።",
+      q1: "'I store by dev' ከተለመዱት እቁቦች በምን ይለያል?",
       a1: "የኢትዮጵያን ባህላዊ እቁብ እሴት እንደጠበቀ፣ በእጅ የመመዝገብን ድካም ያስቀራል። የ 12,000 ብር እለት ቁጠባ በስልክ ዳሽቦርድ ላይ ግልጽ ሆኖ ይታያል፤ በየ 9 ቀኑ ደግሞ አዲስ የሱዙኪ ዲዛይር መኪና ለባለዕድለኛው ያስረክባል።",
       q2: "የ 2,700,000 ብሩ የዙር ድምር እንዴት ይሰላል?",
       a2: "በቀላል የሂሳብ ቀመር ይሰላል፦ 25 ጓደኛሞች በየቀኑ 12,000 ብር ይቆጥባሉ። በቀን 300,000 ብር ይሰበሰባል። በ 9 ቀናት ውስጥ 300,000 × 9 = 2,700,000 ብር ይደርሳል፤ ይህ ገንዘብ አንዷን አዲስ የሱዙኪ ዲዛይር መኪና ሙሉ ለሙሉ ይሸፍናል።",
@@ -300,7 +300,7 @@ export const translations = {
     },
     cta: {
       title: "የኢትዮጵያን ባህላዊ እቁብ በዘመናዊ መልክ ይለማመዱ",
-      subtitle: "'I store by deb equb'ን ለ 25ቱ አባላት በዘመናዊና ምቹ የሞባይል ተሞክሮ ለማስጀመር ዝግጁ ኖት?",
+      subtitle: "'I store by dev'ን ለ 25ቱ አባላት በዘመናዊና ምቹ የሞባይል ተሞክሮ ለማስጀመር ዝግጁ ኖት?",
       btnClient: "የማሳያ ቀጠሮ ይያዙ",
       btnRules: "የእቁቡን ደንብ በ PDF ያውርዱ (ዲሞ)",
     },
@@ -309,8 +309,8 @@ export const translations = {
       disclaimerText: "ይህ ድረ-ገጽ ለደንበኛ ማሳያነት ብቻ የተዘጋጀ የፅንሰ-ሃሳብ ንድፍ ነው። ይፋዊ የባንክ ወይም የህዝብ ሎተሪ ምርት አይደለም። በኢትዮጵያ ውስጥ የሚካሄዱ የእቁብ እና የሎተሪ ስራዎች ከመተግበራቸው በፊት በሀገሪቱ ህግ መሰረት ተገቢው የህግ ማጣራት ሊደረግባቸው ይገባል።", // TODO: regulatory review
       address: "ቦሌ መድኃኔዓለም፣ አዲስ አበባ፣ ኢትዮጵያ",
       phone: "+251 911 000 000 (የማሳያ ስልክ)",
-      email: "contact@istorebydeb-demo.et",
-      copyright: `© ${new Date().getFullYear()} I store by deb equb. መብቱ በህግ የተጠበቀ ነው። ለኢትዮጵያውያን የጋራ እድገት የተሰራ።`,
+      email: "contact@istorebydev-demo.et",
+      copyright: `© ${new Date().getFullYear()} I store by dev. መብቱ በህግ የተጠበቀ ነው። ለኢትዮጵያውያን የጋራ እድገት የተሰራ።`,
     }
   }
 };

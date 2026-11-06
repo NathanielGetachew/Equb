@@ -15,14 +15,12 @@ export const Navbar: React.FC = () => {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  // Simplified essential navigation links
   const navLinks = [
-    { href: '#what-is-equb', label: t.nav.whatIsEqub },
     { href: '#how-it-works', label: t.nav.howItWorks },
     { href: '#timeline', label: t.nav.timeline },
     { href: '#prize', label: t.nav.prize },
-    { href: '#members', label: t.nav.members },
     { href: '#calculator', label: t.nav.calculator },
-    { href: '#faq', label: t.nav.faq },
   ];
 
   return (
